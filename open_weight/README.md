@@ -1,0 +1,1 @@
+Exploring how to an open weight model can run locally or on a linux box
